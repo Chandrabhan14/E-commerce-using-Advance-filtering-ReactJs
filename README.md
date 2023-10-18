@@ -18,3 +18,10 @@ This project is an e-commerce website built using ReactJS. this project shows th
 
 <b>Snippets from the project are below-</b><br>
 
+![Screenshot 2023-10-19 035516](https://github.com/Chandrabhan14/E-commerce-using-Advance-filtering-ReactJs/assets/86604925/1a1770cc-bd33-41a2-a89b-5b53c8b5b425)  <br>
+
+
+![Screenshot 2023-10-19 035602](https://github.com/Chandrabhan14/E-commerce-using-Advance-filtering-ReactJs/assets/86604925/ec1e74f1-9ba6-4efe-abfa-ddbce2d7001a)  <br>
+
+
+![Screenshot 2023-10-19 035709](https://github.com/Chandrabhan14/E-commerce-using-Advance-filtering-ReactJs/assets/86604925/e062920a-ea1e-4f20-951d-ede4570aec83)
