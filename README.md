@@ -14,7 +14,7 @@ This project is an e-commerce website built using ReactJS. this project shows th
 <b>Usage</b><br>
 1.Start the development server:<br>
 "npm start"<br>
-2.Open your web browser and go to http://localhost:3000 to view the e-commerce website.<br>
+
 
 <b>Snippets from the project are below-</b><br>
 
